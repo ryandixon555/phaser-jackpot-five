@@ -1,8 +1,8 @@
-# Jackpot 5
+## Jackpot 5
 Pure html5 slot machine game virtual cabinet (concept)
 
-# Demo 
-[Advertisement Integration](https://play.befive.info/jackpot-five/)  
+## To Run:
+* Load the **index.html** file in a browser
 
-# License 
-MIT
+## Site:
+https://budget-react-hooks.netlify.com/

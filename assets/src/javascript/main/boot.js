@@ -8,7 +8,7 @@
 	3. preload triggered
 	4. preloadProgress while being loaded
 	5. complete , Check OK or NG
-	6. OK passed, then fire gamoMode
+	6. OK passed, then fire gameMode
 
 */
 Gframe.backbone.models.bootStatus = Backbone.Model.extend({
